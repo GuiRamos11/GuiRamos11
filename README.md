@@ -24,9 +24,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br/>
 
-### 🐍 Contribuições
-<p align="center">
-  <img src="https://github.com/GuiRamos11/GuiRamos11/blob/output/github-contribution-grid-snake.svg" />
-</p>
+
