@@ -1,11 +1,18 @@
-# Olá, eu sou o Guilherme! 👋
+Olá, eu sou o Guilherme! 👋
 
-<div style="display: flex; gap: 10px;">
-  <img align="center" alt="Estatísticas do Guilherme" height="195" src="https://github-readme-stats.vercel.app/api?username=GuiRamos11&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-  <img align="center" alt="Linguagens mais usadas" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiRamos11&theme=radical&layout=compact&hide_border=true" />
-</div>
+🔭 Sobre mim
+Em transição de carreira para a área de Cloud e Infraestrutura.
 
-<br>
+Atualmente cursando MBA em Tecnologia para Negócios: AI, Data Science e Big Data (PUCRS) e graduado em ADS (UniFECAF).
+
+Focado em provisionamento de recursos em Microsoft Azure, administração de sistemas Linux e automação de processos.
+
+Aplico minha experiência prévia em gestão estratégica B2B para entender as necessidades de negócio e transformá-las em soluções de infraestrutura eficientes.
+
+🎓 Formação
+MBA em Tecnologia para Negócios: PUCRS (Previsão 2027)
+
+Análise e Desenvolvimento de Sistemas: UniFECAF (Concluído em 2024)
 
 ### 🛠️ Tecnologias e Ferramentas
 
