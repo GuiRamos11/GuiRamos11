@@ -1,6 +1,7 @@
 Olá, eu sou o Guilherme! 👋
 
-🔭 Sobre mim
+🔭 Sobre mim:
+
 Em transição de carreira para a área de Cloud e Infraestrutura.
 
 Atualmente cursando MBA em Tecnologia para Negócios: AI, Data Science e Big Data (PUCRS) e graduado em ADS (UniFECAF).
@@ -9,7 +10,8 @@ Focado em provisionamento de recursos em Microsoft Azure, administração de sis
 
 Aplico minha experiência prévia em gestão estratégica B2B para entender as necessidades de negócio e transformá-las em soluções de infraestrutura eficientes.
 
-🎓 Formação
+🎓 Formação:
+
 MBA em Tecnologia para Negócios: PUCRS (Previsão 2027)
 
 Análise e Desenvolvimento de Sistemas: UniFECAF (Concluído em 2024)
